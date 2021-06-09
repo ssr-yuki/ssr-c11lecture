@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+
+title: <a href="index">SSR C11 Textbook</a>
+description:
+show_downloads: false
