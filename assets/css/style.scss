@@ -7,19 +7,30 @@
   display: none;
 }
 
-// .inner {
-//   position: relative;
-//   max-width: 640px;
-//   padding: 20px 10px;
-//   margin: 0 auto;
-// }
-
-a {
-  color: black;
-  text-decoration: underline;
-
-  &:hover {
-    color: #0F79D0;
+#header_wrap {
+  background: linear-gradient(to bottom,#052d5d 0, #03447d 100%);
+  a {
+  color: white;
+  text-decoration: none;
   }
 }
 
+#main_content_wrap {
+  background: white;
+  a {
+    color: black;
+    text-decoration: underline;
+
+    &:hover {
+      color: #0F79D0;
+    }
+  }
+}
+
+#footer_wrap {
+  background: linear-gradient(to bottom,#052d5d 0, #03447d 100%);
+  a {
+    color: white;
+    text-decoration: none;
+    }
+}
