@@ -9,8 +9,8 @@ description: Table of Contents
 2. [プログラムの実行](./text/fd02)
 3. [変数と型](./text/fd03)
 4. [四則演算](./text/fd04)
-5. 出力関数printf
-6. 型修飾子
+5. [出力関数printf](./text/fd05)
+6. [型修飾子と型変換](./text/fd06)
 7. 比較演算
 8. 条件分岐
 9. 繰り返し
